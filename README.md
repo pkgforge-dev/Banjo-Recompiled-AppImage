@@ -17,7 +17,7 @@
 
 </div>
 
-### ⚠️ Place rom inside `~/.config/BanjoRecompiled` ⚠️
+### ⚠️ Place `rom` inside `~/.config/BanjoRecompiled` ⚠️
 
 ---
 
